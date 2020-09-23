@@ -1,0 +1,24 @@
+{
+    "name": "Untitled",
+    "description": "",
+    "dependencies": {
+        "arduino-zero": "*",
+        "gamepad": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.13.51",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
